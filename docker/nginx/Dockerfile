@@ -1,2 +1,2 @@
 FROM nginx:latest
-MAINTAINER huko89088@qq.com
+MAINTAINER huko89088@qq.co
